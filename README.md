@@ -1,6 +1,5 @@
 # vue-learn
-vue-learn
-
+This is the basic core exercise of Vue.
 
 ### Introduction to Vue
 learn:
@@ -32,7 +31,6 @@ learn:
 ### Vue Forms
 learn:
 ```
-    
 Form fields can be bound to Vue data using the v-model directive — 
 how v-model is used depends on the type of field it is being added to
 
@@ -45,6 +43,4 @@ v-on:submit.prevent and cleaning up form field values using
 
 Form validation can be implemented by setting the value of the disabled
 attribute on a <button> to the value of a computed property using v-bind
-
-
 ```
