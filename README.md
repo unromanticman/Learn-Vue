@@ -1,5 +1,6 @@
-# vue-learn
+# Learn Vue
 This is the basic core exercise of Vue.
+
 
 ### Introduction to Vue
 learn:
