@@ -44,3 +44,14 @@ learn:
     Form validation can be implemented by setting the value of the disabled
     attribute on a <button> to the value of a computed property using v-bind
 ```
+
+
+### Styling Elements with Vue
+learn:
+```
+    style - dynamically add inline styles using v-bind:style with a style object or an 
+    array of style objects. 
+    class - dynamically add classes using v-bind:class with a class object or an array 
+    of class objects and class name strings.
+```
+
