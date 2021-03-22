@@ -4,8 +4,7 @@ This is the basic core exercise of Vue.
 
 ### Introduction to Vue
 [link to demo](https://unromanticman.github.io/Learn-Vue/Introduction%20to%20Vue/  )  
-<br>
-learn:
+#### learn
 ```
     Createing Vue Apps、el、Data、Templates、Components、Virtual DOM、Directives
     
@@ -22,8 +21,7 @@ learn:
 
 ### Vue Data
 [link to demo](https://unromanticman.github.io/Learn-Vue/Vue%20Data/)  
-<br>
-learn:
+#### learn
 ```
     data - used for storing known dynamic values
     computed - used for computing dynamic values based on known dynamic values 
@@ -35,8 +33,7 @@ learn:
 
 ### Vue Forms
 [link to demo](https://unromanticman.github.io/Learn-Vue/Vue%20Forms/)  
-<br>
-learn:
+#### learn
 ```
     Form fields can be bound to Vue data using the v-model directive — 
     how v-model is used depends on the type of field it is being added to
@@ -58,8 +55,7 @@ learn:
 [link to classes  demo](https://unromanticman.github.io/Learn-Vue/Styling%20Elements%20with%20Vue/Classes/  )  
 [link to inline styles demo](https://unromanticman.github.io/Learn-Vue/Styling%20Elements%20with%20Vue/Inline%20Styles/)  
 [link to multiple style object demo](https://unromanticman.github.io/Learn-Vue/Styling%20Elements%20with%20Vue/Multiple%20Style%20Objects/  )  
-<br>
-learn:
+#### learn
 ```
     style - dynamically add inline styles using v-bind:style with a style object or an 
     array of style objects. 
