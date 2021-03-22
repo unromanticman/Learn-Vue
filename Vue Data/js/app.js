@@ -55,16 +55,17 @@ const app = new Vue({
       }
     }
   },
-  methods: {
-    resetFields: function() {
-      this.firstName = '';
-      this.lastName = '';
-      this.email = '';
-      this.ticketQuantity = 1;
-      this.ticketType = 'general';
-      this.referrals = [];
-      this.specialRequests = '';
-      this.purchaseAgreementSigned = false;
-    }
+  methods:{
+resetFields : function(){
+    this.firstName = '';
+    this.lastName = '';
+    this.email = '';
+    this.ticketQuantity = 1;
+    this.ticketType = 'general';
+    this.referrals = [];
+    this.specialRequests = '';
+    this.purchaseAgreementSigned = false;
+  }
+
   }
 });
